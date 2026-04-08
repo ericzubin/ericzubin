@@ -115,11 +115,12 @@ Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3
 |:-----|:------------|
 | **Backend** | Laravel, PHP, Node.js/Express, APIs REST, autenticación (Sanctum, Passport, JWT) |
 | **Frontend** | Vue 3, Vuetify 3, Angular, TypeScript, Bootstrap 5, Tailwind CSS |
-| **Móvil** | Ionic, Capacitor, SQLite, cámara, GPS, notificaciones push |
+| **Móvil** | Ionic, Capacitor, Android, iOS, SQLite, cámara, GPS, notificaciones push |
 | **Bases de Datos** | MySQL, PostgreSQL, SQLite, diseño de esquemas |
 | **Cloud & DevOps** | AWS (EC2, RDS, S3), Docker, Nginx, SSL, Linux |
 | **Integraciones** | Twilio SMS, OpenPay, OpenRouter AI, Brave Search, Pusher |
-| ** Otros** | ZPL (Zebra), QR codes, PDFs (DomPDF), Excel (Maatwebsite) |
+| **Publicación** | Play Store, App Store, GitHub Actions CI/CD |
+| **Otros** | ZPL (Zebra), QR codes, PDFs (DomPDF), Excel (Maatwebsite) |
 
 ---
 
