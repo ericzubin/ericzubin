@@ -44,6 +44,8 @@ Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
 | Proyecto | Rol | Descripción | Stack |
 |:---------|:---|:------------|:------|
 | **Quinielas Win** | ⭐ Principal | Sistema de apuestas deportivas con QR, SMS y pagos internacionales. App Ionic para Android/iOS. | Ionic, Laravel, Twilio, OpenPay |
+| **101 Eventos** | ⭐ Principal | Plataforma de ticketing con roles, generación QR, gestión de empresas, emails automatizados y reportes PDF. | Laravel, Vuexy, MySQL, DomPDF |
+| **Ecobasa Web** | ⭐ Principal | ERP industrial con cotizaciones, planificación de producción (SIPOC), inventario MP/PT, clientes y reportes PDF. | Laravel, Vue 2, Bootstrap |
 | **Black ID Link** | Principal | Plataforma B2B con IA para ingestion de productos desde PDFs/imágenes. | Laravel, OpenRouter AI, Vuexy |
 | **Club de Industriales** | 🔧 Soporte | Dashboard empresarial con gráficos avanzados. Debug migraciones + despliegue. | Laravel, Vue 3, Vuetify, GitHub Actions |
 | **Almacén** | 🔧 Soporte | Sistema de inventario con 2FA. Debug migraciones + DevOps Docker. | Laravel, Vuexy, Google2FA, Docker |
@@ -52,8 +54,9 @@ Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
 
 | Proyecto | Descripción | Stack |
 |:---------|:------------|:------|
-| **Black ID App** | App conserje para hoteles con QR, chat, notificaciones push. Offline SQLite. | Ionic 7, Angular 17, Capacitor, Firebase |
-| **iocheck / Amiqro** | App de verificación con QR (ML Kit), speech recognition, GPS. | Ionic 7, Angular 17, SQLite |
+| **Black ID App** | ⭐ Principal | App conserje para hoteles con QR, chat, tickets, cupones, experiencias, directorio y notificaciones push via Firebase. Offline SQLite. | Ionic 7, Angular 17, Capacitor, Firebase |
+| **iocheck** | ⭐ Principal | App de verificación y check-in con scanning QR (ML Kit), speech recognition, text-to-speech, GPS, cámara y SQLite offline. | Ionic 7, Angular 17, SQLite |
+| **Amiqro** | ⭐ Principal | App de verificación y check-in con múltiples plugins: cámara, GPS, SQLite, QR y speech recognition. Versión alternativa del mismo proyecto. | Ionic 7, Angular 17, SQLite |
 
 ### 🛠️ Herramientas
 
