@@ -21,53 +21,9 @@
 Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3**, así como **apps móviles híbridas con Ionic Angular**. Especializado en crear soluciones escalables e integraciones con servicios cloud.
 
 - 🔧 Desarrollando soluciones empresariales en México
-- 🌍 Basado en **Ciudad de México, México** 🇲🇽
+- 🌍 Basado en **Querétaro, Querétaro 🇲🇽**
 - 📧 Contacto: [eric.zubin@gmail.com](mailto:eric.zubin@gmail.com)
 - 🌐 Portafolio: [ericzubin.github.io](https://ericzubin.github.io)
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS"/>
-</p>
-
-### Frontend & Móvil
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
-</p>
-
-### Infraestructura & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericzubin&show_icons=true&theme=blue_matrix&locale=es" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericzubin&layout=compact&theme=blue_matrix&locale=es" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ericzubin&theme=blue_matrix&locale=es" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -75,37 +31,25 @@ Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3
 
 ### 🌐 Aplicaciones Web
 
-| Proyecto | Descripción | Stack |
-|:---------|:------------|:------|
-| **[Club de Industriales](https://github.com/ericzubin/Club-de-Industriales)** | Plataforma web para club empresarial con dashboard, gráficos avanzados (Chart.js/Apexcharts), editor rico (Tiptap), mapas (Mapbox) y gestión de usuarios. Despliegue en Apache/Linux via GitHub Actions. | Laravel 12, Vue 3, Vuetify 3, Vite, Pinia, Sanctum |
-| **[Quinielas Web](https://github.com/ericzubin/quinielas)** | Sistema de apuestas deportivas con generación de QR, envío SMS (Twilio), pagos (OpenPay), broadcasting real-time (Laravel Echo/Pusher). Despliegue en AWS Elastic Beanstalk. | Laravel 10, MySQL, Bootstrap 5, Pusher, AWS |
-| **[101 Eventos](https://github.com/ericzubin/101eventos)** | Plataforma de ticketing con gestión de empresas, generación de QR para acceso, sistema de roles y permisos (Spatie), emails automatizados y PDFs (DomPDF). | Laravel 10, MySQL, Vuexy, Sanctum, QR Code |
-| **[Black ID Link](https://github.com/ericzubin/blackid.link)** | Plataforma B2B con IA para ingestion de productos desde PDFs/imágenes usando OpenRouter (GPT-4o-mini). Incluye búsqueda web (Brave Search API) y análisis de empresas. | Laravel 10, Vuexy, OpenRouter AI, Pusher |
-| **[Almacen](https://github.com/ericzubin/almacen)** | Sistema de gestión de inventario y almacén con control de stock, órdenes de compra, importación Excel (Maatwebsite), códigos de barras y autenticación 2FA. | Laravel 12, Vuexy, MySQL, Google2FA |
-| **[Ecobasa Web](https://github.com/ericzubin/ecobasaweb)** | ERP para empresa cartonera con gestión de cotizaciones, planificación de producción (SIPOC), inventario MP/PT, clientes y reportes PDF. Multi-base de datos. | Laravel 8, Vue 2, Bootstrap, Passport |
+| Proyecto | Rol | Descripción | Stack |
+|:---------|:---|:------------|:------|
+| **Quinielas Win** | **Principal** | Sistema de apuestas deportivas con generación de QR, envío SMS (Twilio), pagos internacionales (OpenPay), broadcasting real-time (Laravel Echo/Pusher). App móvil Ionic para Android/iOS. Mejora integral del panel de administración. | Ionic Angular, Laravel, MySQL, Twilio, OpenPay, Pusher, AWS |
+| **Club de Industriales** | Soporte/DevOps | Plataforma web para club empresarial con dashboard y gráficos avanzados. Debug de migraciones Laravel y despliegue en servidor Linux con GitHub Actions. | Laravel, Vue 3, Vuetify 3, Vite, Pinia, Sanctum |
+| **Almacén** | Soporte/DevOps | Sistema de gestión de inventario y almacén con control de stock, órdenes de compra, importación Excel (Maatwebsite), códigos de barras y autenticación 2FA (Google2FA). Debug de migraciones y despliegue con Docker. | Laravel, Vuexy, MySQL, Google2FA, Docker |
 
 ### 📱 Aplicaciones Móviles
 
 | Proyecto | Descripción | Stack |
 |:---------|:------------|:------|
-| **[Black ID App](https://github.com/ericzubin/blackidapp)** | App móvil tipo conserje para hoteles/resorts con QR, chat, tickets de soporte, cupones, experiencias, directorio y notificaciones push via Firebase. Offline-first con SQLite. | Ionic 7, Angular 17, Capacitor, SQLite, Firebase |
-| **[iocheck / Amiqro](https://github.com/ericzubin/iocheck)** | App de verificación y check-in con scanning QR (ML Kit), speech recognition, text-to-speech, GPS, cámara, SQLite offline y más de 15 plugins de Capacitor. | Ionic 7, Angular 17, Capacitor 5, SQLite |
+| **Black ID App** | App móvil tipo conserje para hoteles/resorts con QR, chat, tickets de soporte, cupones, experiencias, directorio y notificaciones push via Firebase. Offline-first con SQLite. | Ionic 7, Angular 17, Capacitor, SQLite, Firebase |
+| **iocheck / Amiqro** | App de verificación y check-in con scanning QR (ML Kit), speech recognition, text-to-speech, GPS, cámara, SQLite offline y más de 15 plugins de Capacitor. | Ionic 7, Angular 17, Capacitor 5, SQLite |
 
 ### 🛠️ Herramientas y Scripts
 
 | Proyecto | Descripción | Stack |
 |:---------|:------------|:------|
-| **[App Claw Agente](https://github.com/ericzubin/appclawagente)** | Panel admin monorepo para gestión de agente OpenClaw. Dashboard en tiempo real (CPU/RAM), chat con voz (Web Speech API), monitoreo de canales (WhatsApp, Telegram, Discord). | React 19, Node.js, Express, Zustand, WebSocket |
-| **[Reloj](https://github.com/ericzubin/reloj)** | Sistema de tracking de tiempo auto-hospedado (clone de Clockify). Timer, Pomodoro, Kanban, reportes Chart.js, exportación Excel, invoices PDF. Funciona 100% local con SQLite. | Node.js, Express, Prisma, SQLite |
-
----
-
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO"/>
-  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" height="64" alt="Arctic Code Vault"/>
-</p>
+| **App Claw Agente** | Panel admin monorepo para gestión de agente OpenClaw. Dashboard en tiempo real (CPU/RAM), chat con voz (Web Speech API), monitoreo de canales (WhatsApp, Telegram, Discord). | React 19, Node.js, Express, Zustand, WebSocket |
+| **Reloj** | Sistema de tracking de tiempo auto-hospedado (clone de Clockify). Timer, Pomodoro, Kanban, reportes Chart.js, exportación Excel, invoices PDF. 100% local con SQLite. | Node.js, Express, Prisma, SQLite |
 
 ---
 
@@ -116,8 +60,7 @@ Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3
 | **Backend** | Laravel, PHP, Node.js/Express, APIs REST, autenticación (Sanctum, Passport, JWT) |
 | **Frontend** | Vue 3, Vuetify 3, Angular, TypeScript, Bootstrap 5, Tailwind CSS |
 | **Móvil** | Ionic, Capacitor, Android, iOS, SQLite, cámara, GPS, notificaciones push |
-| **Bases de Datos** | MySQL, PostgreSQL, SQLite, diseño de esquemas |
-| **Cloud & DevOps** | AWS (EC2, RDS, S3), Docker, Nginx, SSL, Linux |
+| **Cloud & DevOps** | AWS (EC2, RDS, S3), Docker, Nginx, SSL, Linux, GitHub Actions CI/CD |
 | **Integraciones** | Twilio SMS, OpenPay, OpenRouter AI, Brave Search, Pusher |
 | **Publicación** | Play Store, App Store, GitHub Actions CI/CD |
 | **Otros** | ZPL (Zebra), QR codes, PDFs (DomPDF), Excel (Maatwebsite) |
@@ -126,14 +69,6 @@ Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3
 
 ## 📬 Contacto
 
-<p align="center">
-  <a href="mailto:eric.zubin@gmail.com"><img src="https://img.shields.io/badge/Email-eric.zubin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://ericzubin.github.io"><img src="https://img.shields.io/badge/Web-ericzubin.github.io-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/ericzubin"><img src="https://img.shields.io/badge/GitHub-ericzubin-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gracias por visitar-1e3a8a?style=for-the-badge" alt="Thanks"/>
-</p>
+- 📧 Email: ericzubin@gmail.com
+- 🌐 Web: ericzubin.github.io
+- 📍 Ubicación: Querétaro, Querétaro, MX
