@@ -1,16 +1,16 @@
-# 👋 Hola, soy Eric Zubin Vega Rodríguez
+# 👋 Hola, soy Eric Zubin
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desarrollador-Full_Stack-1e3a8a?style=for-the-badge" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Desarrollador-Full_Stack-1e3a8a?style=for-the-badge" alt="Full Stack">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Ionic_Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular/Ionic">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
@@ -18,12 +18,22 @@
 
 ## 💼 Sobre mí
 
-Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3**, así como **apps móviles híbridas con Ionic Angular**. Especializado en crear soluciones escalables e integraciones con servicios cloud.
+Desarrollador Full-Stack especializado en **Laravel** y **Vue 3** para backend/frontend, y **Ionic Angular** para apps móviles híbridas. 
+Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
 
 - 🔧 Desarrollando soluciones empresariales en México
-- 🌍 Basado en **Querétaro, Querétaro 🇲🇽**
-- 📧 Contacto: [eric.zubin@gmail.com](mailto:eric.zubin@gmail.com)
+- 📍 Basado en **Querétaro, Querétaro 🇲🇽**
+- 📧 Contacto: ericzubin@gmail.com
 - 🌐 Portafolio: [ericzubin.github.io](https://ericzubin.github.io)
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericzubin&show_icons=true&theme=blue_matrix&locale=es" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericzubin&layout=compact&theme=blue_matrix&locale=es" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
@@ -33,42 +43,56 @@ Desarrollador Full-Stack con experiencia en **desarrollo web con Laravel y Vue 3
 
 | Proyecto | Rol | Descripción | Stack |
 |:---------|:---|:------------|:------|
-| **Quinielas Win** | **Principal** | Sistema de apuestas deportivas con generación de QR, envío SMS (Twilio), pagos internacionales (OpenPay), broadcasting real-time (Laravel Echo/Pusher). App móvil Ionic para Android/iOS. Mejora integral del panel de administración. | Ionic Angular, Laravel, MySQL, Twilio, OpenPay, Pusher, AWS |
-| **Club de Industriales** | Soporte/DevOps | Plataforma web para club empresarial con dashboard y gráficos avanzados. Debug de migraciones Laravel y despliegue en servidor Linux con GitHub Actions. | Laravel, Vue 3, Vuetify 3, Vite, Pinia, Sanctum |
-| **Almacén** | Soporte/DevOps | Sistema de gestión de inventario y almacén con control de stock, órdenes de compra, importación Excel (Maatwebsite), códigos de barras y autenticación 2FA (Google2FA). Debug de migraciones y despliegue con Docker. | Laravel, Vuexy, MySQL, Google2FA, Docker |
+| **Quinielas Win** | ⭐ Principal | Sistema de apuestas deportivas con QR, SMS y pagos internacionales. App Ionic para Android/iOS. | Ionic, Laravel, Twilio, OpenPay |
+| **Black ID Link** | Principal | Plataforma B2B con IA para ingestion de productos desde PDFs/imágenes. | Laravel, OpenRouter AI, Vuexy |
+| **Club de Industriales** | 🔧 Soporte | Dashboard empresarial con gráficos avanzados. Debug migraciones + despliegue. | Laravel, Vue 3, Vuetify, GitHub Actions |
+| **Almacén** | 🔧 Soporte | Sistema de inventario con 2FA. Debug migraciones + DevOps Docker. | Laravel, Vuexy, Google2FA, Docker |
 
-### 📱 Aplicaciones Móviles
-
-| Proyecto | Descripción | Stack |
-|:---------|:------------|:------|
-| **Black ID App** | App móvil tipo conserje para hoteles/resorts con QR, chat, tickets de soporte, cupones, experiencias, directorio y notificaciones push via Firebase. Offline-first con SQLite. | Ionic 7, Angular 17, Capacitor, SQLite, Firebase |
-| **iocheck / Amiqro** | App de verificación y check-in con scanning QR (ML Kit), speech recognition, text-to-speech, GPS, cámara, SQLite offline y más de 15 plugins de Capacitor. | Ionic 7, Angular 17, Capacitor 5, SQLite |
-
-### 🛠️ Herramientas y Scripts
+### 📱 Apps Móviles
 
 | Proyecto | Descripción | Stack |
 |:---------|:------------|:------|
-| **App Claw Agente** | Panel admin monorepo para gestión de agente OpenClaw. Dashboard en tiempo real (CPU/RAM), chat con voz (Web Speech API), monitoreo de canales (WhatsApp, Telegram, Discord). | React 19, Node.js, Express, Zustand, WebSocket |
-| **Reloj** | Sistema de tracking de tiempo auto-hospedado (clone de Clockify). Timer, Pomodoro, Kanban, reportes Chart.js, exportación Excel, invoices PDF. 100% local con SQLite. | Node.js, Express, Prisma, SQLite |
+| **Black ID App** | App conserje para hoteles con QR, chat, notificaciones push. Offline SQLite. | Ionic 7, Angular 17, Capacitor, Firebase |
+| **iocheck / Amiqro** | App de verificación con QR (ML Kit), speech recognition, GPS. | Ionic 7, Angular 17, SQLite |
+
+### 🛠️ Herramientas
+
+| Proyecto | Descripción | Stack |
+|:---------|:------------|:------|
+| **Reloj** | Time tracking self-hosted (Clockify clone). Timer, Pomodoro, Kanban, reportes. 100% SQLite. | Node.js, Prisma, SQLite |
+| **App Claw Agente** | Panel admin para OpenClaw con dashboard en tiempo real y chat con voz. | React 19, Node.js, WebSocket |
 
 ---
 
-## 💡 Especialidades y Habilidades
+## 🛠️ Tech Stack
 
-| Área | Tecnologías |
-|:-----|:------------|
-| **Backend** | Laravel, PHP, Node.js/Express, APIs REST, autenticación (Sanctum, Passport, JWT) |
-| **Frontend** | Vue 3, Vuetify 3, Angular, TypeScript, Bootstrap 5, Tailwind CSS |
-| **Móvil** | Ionic, Capacitor, Android, iOS, SQLite, cámara, GPS, notificaciones push |
-| **Cloud & DevOps** | AWS (EC2, RDS, S3), Docker, Nginx, SSL, Linux, GitHub Actions CI/CD |
-| **Integraciones** | Twilio SMS, OpenPay, OpenRouter AI, Brave Search, Pusher |
-| **Publicación** | Play Store, App Store, GitHub Actions CI/CD |
-| **Otros** | ZPL (Zebra), QR codes, PDFs (DomPDF), Excel (Maatwebsite) |
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### Frontend & Móvil
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ## 📬 Contacto
 
-- 📧 Email: ericzubin@gmail.com
-- 🌐 Web: ericzubin.github.io
-- 📍 Ubicación: Querétaro, Querétaro, MX
+- 📧 **Email:** ericzubin@gmail.com
+- 🌐 **Web:** [ericzubin.github.io](https://ericzubin.github.io)
+- 📍 **Ubicación:** Querétaro, Querétaro, MX
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gracias_por_visitar-1e3a8a?style=for-the-badge" alt="Thanks"/>
+</p>
