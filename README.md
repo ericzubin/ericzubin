@@ -1,101 +1,94 @@
-# 👋 Hola, soy Eric Zubin
+# Eric Zubin
+
+**Desarrollador Full-Stack · CIO en STRAT** — construyo plataformas web, apps móviles e infraestructura en la nube.
+
+📍 Querétaro, Querétaro, México · ✉️ [eric.zubin@gmail.com](mailto:eric.zubin@gmail.com) · 🌐 **[ericzubin.mx](https://ericzubin.mx)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desarrollador-Full_Stack-1e3a8a?style=for-the-badge" alt="Full Stack">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Vue-3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+## 👔 Sobre mí
 
----
+Desarrollador Full-Stack y **CIO en STRAT** (2018 — presente). Diseño, construyo y opero sistemas que se usan todos los días: ERPs, WMS, plataformas de eventos, comercio electrónico y apps móviles.
 
-## 💼 Sobre mí
+Mi stack principal es **Laravel + Vue 3** en web, **Ionic/Angular** y **React Native/Expo** en móvil, y **AWS + Docker + GitHub Actions** para desplegar. Integro pagos, SMS, facturación y modelos de IA para automatizar procesos.
 
-Desarrollador Full-Stack especializado en **Laravel** y **Vue 3** para backend/frontend, y **Ionic Angular** para apps móviles híbridas.
-Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
+- 📁 **30 proyectos** con detalle en [ericzubin.mx/proyectos](https://ericzubin.mx/proyectos/)
+- 🎓 Ingeniería en Software — Universidad Autónoma de Querétaro (2018)
+- 🔧 Trabajo con clientes en México y en remoto
 
-- 🔧 Desarrollando soluciones empresariales en México
-- 📍 Basado en **Querétaro, Querétaro 🇲🇽**
-- 📧 Contacto: eric.zubin@gmail.com
-- 🌐 Portafolio: **[ericzubin.mx](https://ericzubin.mx)**
+## 🛠️ Stack
 
----
+**Backend**
+Laravel · PHP · Node.js · Prisma · APIs REST
 
-## 📈 Estadísticas
+**Bases de datos**
+MySQL · PostgreSQL · SQLite
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericzubin&show_icons=true&theme=blue_matrix&locale=es" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericzubin&layout=compact&theme=blue_matrix&locale=es" alt="Top Languages" height="180"/>
-</p>
+**Frontend**
+Vue 3 · Angular · React 19 · TypeScript · Vuetify · Bootstrap · Tailwind CSS
 
----
+**Móvil**
+Ionic · Capacitor · React Native / Expo · Android · iOS · Firebase · ML Kit
 
-## 📁 Proyectos Destacados
+**Cloud y DevOps**
+AWS (EC2, RDS, S3, Lambda, DynamoDB, Bedrock) · Docker · Nginx · Linux · GitHub Actions
 
-### 🌐 Aplicaciones Web
+**Integraciones**
+Twilio (SMS) · OpenPay (pagos) · Facturapi (facturación) · OpenRouter AI · AWS Bedrock · Pusher · WebSocket
+
+**Otros**
+Códigos QR · DomPDF · Maatwebsite (Excel) · ZPL / Zebra (RFID) · Google2FA
+
+## 📁 Proyectos destacados
+
+### 🌐 Plataformas web
 
 | Proyecto | Rol | Descripción | Stack |
-|:---------|:---|:------------|:------|
-| **Quinielas Win** | ⭐ Principal | Sistema de apuestas deportivas con QR, SMS y pagos internacionales. App Ionic para Android/iOS. | Ionic, Laravel, Twilio, OpenPay |
-| **101 Eventos** | ⭐ Principal | Plataforma de ticketing con roles, generación QR, gestión de empresas, emails automatizados y reportes PDF. | Laravel, Vuexy, MySQL, DomPDF |
-| **Ecobasa Web** | ⭐ Principal | ERP industrial con cotizaciones, planificación de producción (SIPOC), inventario MP/PT, clientes y reportes PDF. | Laravel, Vue 2, Bootstrap |
-| **Black ID Link** | Principal | Plataforma B2B con IA para ingestion de productos desde PDFs/imágenes. | Laravel, OpenRouter AI, Vuexy |
-| **Club de Industriales** | 🔧 Soporte | Dashboard empresarial con gráficos avanzados. Debug migraciones + despliegue. | Laravel, Vue 3, Vuetify, GitHub Actions |
-| **Almacén** | 🔧 Soporte | Sistema de inventario con 2FA. Debug migraciones + DevOps Docker. | Laravel, Vuexy, Google2FA, Docker |
+|:--|:--|:--|:--|
+| **SKU.ZONE** | Principal | Gestión comercial y logística: facturación, cobros, QR, reportes PDF y automatización con IA. | Laravel, Vuexy, MySQL, AWS, OpenPay, Facturapi, OpenAI |
+| **Amiqro Live** | Principal | Transmisiones en vivo y documentos con IA: backend serverless y app React Native. | AWS SAM, Lambda, DynamoDB, SQS, Bedrock, Expo |
+| **101tags** | Principal | Tienda en línea de esenciales e industrial, con panel de administración y app para compradores. | Vue 3, Vite, Laravel, MySQL |
+| **WMS SKU.ZONE** | Principal | Gestión de almacén: entradas y salidas, códigos de barras, Excel, auditoría y 2FA. | Laravel, Vuexy, MySQL, Google2FA |
+| **Pabellón Uno** | Principal | Eventos con venta de boletos por QR, invitaciones PDF y websockets en tiempo real. | Laravel, MySQL, Redis, Soketi, AWS |
+| **Quinielas Win** | Principal | Apuestas deportivas con QR, SMS, pagos internacionales y difusión en tiempo real. | Laravel, Ionic, Twilio, OpenPay, Pusher |
+| **101 Eventos** | Principal | Ticketing con roles, QR, gestión de empresas, correos automatizados y reportes PDF. | Laravel, Vuexy, MySQL, DomPDF, Docker |
+| **Ecobasa Web** | Principal | ERP industrial: cotizaciones, producción (SIPOC), inventario MP/PT y reportes PDF. | Laravel, Vue 2, MySQL, Bootstrap |
+| **Black ID Link** | Principal | Plataforma B2B con IA para ingesta de productos desde PDFs e imágenes. | Laravel, Vuexy, OpenRouter AI |
+| **Club de Industriales** | Soporte | Dashboard empresarial con gráficos, editor rico y mapas; migraciones y despliegue. | Laravel, Vue 3, Vuetify, GitHub Actions |
 
-### 📱 Apps Móviles
+### 📱 Apps móviles
 
 | Proyecto | Rol | Descripción | Stack |
-|:---------|:---|:------------|:------|
-| **Black ID App** | ⭐ Principal | App conserje para hoteles con QR, chat, tickets, cupones, experiencias, directorio y notificaciones push via Firebase. Offline SQLite. | Ionic 7, Angular 17, Capacitor, Firebase |
-| **iocheck** | ⭐ Principal | App de verificación y check-in con scanning QR (ML Kit), speech recognition, text-to-speech, GPS, cámara y SQLite offline. | Ionic 7, Angular 17, SQLite |
-| **Amiqro** | ⭐ Principal | App de verificación y check-in con múltiples plugins: cámara, GPS, SQLite, QR y speech recognition. Versión alternativa del mismo proyecto. | Ionic 7, Angular 17, SQLite |
+|:--|:--|:--|:--|
+| **Black ID App** | Principal | App conserje para hoteles: QR, chat, tickets, cupones y notificaciones push. SQLite offline. | Ionic 7, Angular 17, Capacitor, Firebase |
+| **iocheck** | Principal | Verificación y check-in con QR (ML Kit), voz, GPS, cámara y SQLite offline. | Ionic 7, Angular 17, SQLite |
+| **Amiqro** | Principal | Notificaciones AMIQRO en Visor Industrial: QR, voz, GPS y cámara. | Ionic 7, Angular 17, SQLite |
+| **Club de Industriales Móvil** | Soporte | App móvil del club con Ionic 8, Angular 20 y Capacitor 8. | Ionic 8, Angular 20, Capacitor 8 |
 
-### 🛠️ Herramientas
+### 🧰 Herramientas propias
 
 | Proyecto | Descripción | Stack |
-|:---------|:------------|:------|
-| **Reloj** | Time tracking self-hosted (Clockify clone). Timer, Pomodoro, Kanban, reportes. 100% SQLite. | Node.js, Prisma, SQLite |
-| **App Claw Agente** | Panel admin para OpenClaw con dashboard en tiempo real y chat con voz. | React 19, Node.js, WebSocket |
+|:--|:--|:--|
+| **Reloj** | Control horario autoalojado (tipo Clockify): timer, Pomodoro, Kanban y reportes. | Node.js, Prisma, SQLite, Vue |
+| **App Claw Agente** | Panel de administración para OpenClaw con dashboard en tiempo real y chat con voz. | React 19, Node.js, WebSocket |
+| **Hermes** | Cliente de voz móvil para el gateway de Hermes: conversación con IA. | React Native, Expo, TypeScript |
 
----
+→ **Los 30 proyectos, con capturas y detalle:** [ericzubin.mx/proyectos](https://ericzubin.mx/proyectos/)
 
-## 🛠️ Tech Stack
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### Frontend & Móvil
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
+_Los roles **Principal** y **Soporte** describen mi participación en proyectos de cliente. En las herramientas propias el rol es de autoría._
 
 ## 📬 Contacto
 
-- 📧 **Email:** eric.zubin@gmail.com
+- ✉️ **Email:** [eric.zubin@gmail.com](mailto:eric.zubin@gmail.com)
 - 🌐 **Web:** [ericzubin.mx](https://ericzubin.mx)
-- 📍 **Ubicación:** Querétaro, Querétaro, MX
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gracias_por_visitar-1e3a8a?style=for-the-badge" alt="Thanks"/>
-</p>
+- 💻 **GitHub:** [github.com/ericzubin](https://github.com/ericzubin)
+- 📍 **Ubicación:** Querétaro, Querétaro, México
