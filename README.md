@@ -18,13 +18,13 @@
 
 ## 💼 Sobre mí
 
-Desarrollador Full-Stack especializado en **Laravel** y **Vue 3** para backend/frontend, y **Ionic Angular** para apps móviles híbridas. 
+Desarrollador Full-Stack especializado en **Laravel** y **Vue 3** para backend/frontend, y **Ionic Angular** para apps móviles híbridas.
 Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
 
 - 🔧 Desarrollando soluciones empresariales en México
 - 📍 Basado en **Querétaro, Querétaro 🇲🇽**
-- 📧 Contacto: ericzubin@gmail.com
-- 🌐 Portafolio: [ericzubin.github.io](https://ericzubin.github.io)
+- 📧 Contacto: eric.zubin@gmail.com
+- 🌐 Portafolio: **[ericzubin.mx](https://ericzubin.mx)**
 
 ---
 
@@ -52,8 +52,8 @@ Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
 
 ### 📱 Apps Móviles
 
-| Proyecto | Descripción | Stack |
-|:---------|:------------|:------|
+| Proyecto | Rol | Descripción | Stack |
+|:---------|:---|:------------|:------|
 | **Black ID App** | ⭐ Principal | App conserje para hoteles con QR, chat, tickets, cupones, experiencias, directorio y notificaciones push via Firebase. Offline SQLite. | Ionic 7, Angular 17, Capacitor, Firebase |
 | **iocheck** | ⭐ Principal | App de verificación y check-in con scanning QR (ML Kit), speech recognition, text-to-speech, GPS, cámara y SQLite offline. | Ionic 7, Angular 17, SQLite |
 | **Amiqro** | ⭐ Principal | App de verificación y check-in con múltiples plugins: cámara, GPS, SQLite, QR y speech recognition. Versión alternativa del mismo proyecto. | Ionic 7, Angular 17, SQLite |
@@ -90,8 +90,8 @@ Implemento soluciones DevOps con **AWS**, **Docker** y **GitHub Actions**.
 
 ## 📬 Contacto
 
-- 📧 **Email:** ericzubin@gmail.com
-- 🌐 **Web:** [ericzubin.github.io](https://ericzubin.github.io)
+- 📧 **Email:** eric.zubin@gmail.com
+- 🌐 **Web:** [ericzubin.mx](https://ericzubin.mx)
 - 📍 **Ubicación:** Querétaro, Querétaro, MX
 
 ---
